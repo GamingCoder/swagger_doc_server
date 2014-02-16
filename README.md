@@ -13,3 +13,4 @@ samples/
 ## Usage
 ```bash
 $ swaggerdocserver --port <port(Default: 8080)> --dir <dir(absolute or relative; Default: current directory)>
+```
