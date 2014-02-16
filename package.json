@@ -1,0 +1,22 @@
+{
+  "name": "swagger_doc_server",
+  "preferGloba": true,
+  "version": "0.0.1",
+  "description": "A server for Swagger doc files",
+  "bin": {
+    "swaggerdocserver": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "swagger",
+    "api"
+  ],
+  "author": "Tobias Meyer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.4.8",
+    "commander": "~2.1.0"
+  }
+}
