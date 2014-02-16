@@ -13,6 +13,9 @@
     "swagger",
     "api"
   ],
+  "repository": {
+    
+    },
   "author": "Tobias Meyer",
   "license": "MIT",
   "dependencies": {
