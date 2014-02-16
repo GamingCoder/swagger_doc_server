@@ -1,7 +1,7 @@
 {
   "name": "swagger_doc_server",
   "preferGloba": true,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A server for Swagger doc files",
   "bin": {
     "swaggerdocserver": "./index.js"
@@ -14,8 +14,9 @@
     "api"
   ],
   "repository": {
-    
-    },
+    "type": "git",
+    "url": "https://github.com/GamingCoder/swagger_doc_server.git"
+  },
   "author": "Tobias Meyer",
   "license": "MIT",
   "dependencies": {
