@@ -39,4 +39,4 @@ app.get('/:path', function(req, res) {
 
 app.listen(commander.port);
 console.log('URL: ' + 'http://localhost:' + commander.port);
-console.log('Doc Directory: ' + commander.dir)
+console.log('Doc Directory: ' + commander.dir);
