@@ -1,7 +1,7 @@
 {
   "name": "swagger_doc_server",
   "preferGloba": true,
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A server for Swagger doc files",
   "bin": {
     "swaggerdocserver": "./bin/swaggerdocserver.js"
