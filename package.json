@@ -1,10 +1,10 @@
 {
   "name": "swagger_doc_server",
   "preferGloba": true,
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A server for Swagger doc files",
   "bin": {
-    "swaggerdocserver": "./index.js"
+    "swaggerdocserver": "./bin/swaggerdocserver.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
