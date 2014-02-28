@@ -1,5 +1,5 @@
-# Swagger Doc Server
-Server for Swagger Doc Files
+# [Swagger](https://github.com/wordnik/swagger-core) Doc Server
+Server for [Swagger](https://github.com/wordnik/swagger-core) Doc Files
 ## Install
 ```bash
 $ npm install swagger_doc_server -g
